@@ -85,3 +85,5 @@ echo (mysql_error());
 mysql_close($conn);
 
 ?>
+
+http://127.0.0.1/pricemonitor/index.php?acc=oiopoo&last=19888898&api=true&n=hklhjl
